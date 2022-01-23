@@ -1,0 +1,15 @@
+{
+  "name": "cassandra",
+  "version": "1.0.0",
+  "description": "bot designed to cause dirk hamilton grief",
+  "main": "cassandra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bleachybrain",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0"
+  }
+}
